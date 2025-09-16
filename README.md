@@ -24,9 +24,6 @@ Focuses on:
 - Detection and visualization of **DoS attack traffic** using both tools.  
 - Evaluation of which tool is more effective for different scenarios.  
 
-## Screenshots
-*(Add screenshots here to show graphs, dashboards, and attack results)*
-
 ## References
 - [Cacti](https://www.cacti.net/)  
 - [Zabbix](https://www.zabbix.com/)  

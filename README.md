@@ -1,6 +1,6 @@
 # Network Management & DoS Detection (Cacti & Zabbix)
 
-This project was developed as part of the course **"Computer Networks Development and Management" (CSE801)** at the University of Macedonia.
+This project was developed as part of the course **"Computer Networks Development and Management"** at the University of Macedonia.
 
 ## Overview
 Focuses on:
@@ -33,5 +33,4 @@ Focuses on:
 
 ---
 
-✍️ **Author**: Onour Ibrahim  
-📅 **Date**: April 2024
+Onour Imprachim - April 2024
